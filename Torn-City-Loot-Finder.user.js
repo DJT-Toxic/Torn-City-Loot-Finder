@@ -2,10 +2,10 @@
 // @name         Torn City Loot Finder
 // @namespace    DJT_Toxic.city.finder.clean
 // @author       DJT_Toxic
-// @version      2.0.4
-// @description  City map finder with markers, values, custom dropdown jump list, alerts, and quick pickup.
-// @downloadURL https://raw.githubusercontent.com/YourName/torn-city-finder/main/Torn-City-Finder.user.js
-// @updateURL   https://raw.githubusercontent.com/YourName/torn-city-finder/main/Torn-City-Finder.user.js
+// @version      2.0.5
+// @homepageURL https://github.com/DJT-Toxic/Torn-City-Loot-Finder
+// @updateURL   https://raw.githubusercontent.com/DJT-Toxic/Torn-City-Loot-Finder/main/Torn-City-Loot-Finder.user.js
+// @downloadURL https://raw.githubusercontent.com/DJT-Toxic/Torn-City-Loot-Finder/main/Torn-City-Loot-Finder.user.js
 // @match        https://www.torn.com/city.php*
 // @match        https://www.torn.com/page.php?sid=city*
 // @match        https://*.torn.com/city.php*
